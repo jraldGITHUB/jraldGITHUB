@@ -1,7 +1,5 @@
-<!-- Replace YOUR_GITHUB_USERNAME with your real GitHub username everywhere below -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=220&section=header&text=Jrald%20Baco&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Coding%20Powered%20by%20Pizza%20%F0%9F%8D%95&descSize=22&descAlignY=65" alt="Jrald Baco banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Jrald%20Baco&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Coding%20Powered%20by%20Pizza%20%F0%9F%8D%95&descSize=22&descAlignY=65" alt="Jrald Baco banner" />
 </p>
 
 <p align="center">
@@ -14,8 +12,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=e76f51&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github&color=2a9d8f" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=jraldGITHUB&label=Profile%20Views&color=e76f51&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/jraldGITHUB?style=for-the-badge&logo=github&color=2a9d8f" alt="Followers" />
   <img src="https://img.shields.io/badge/Fuel-Pizza%20%F0%9F%8D%95-d62828?style=for-the-badge" alt="Fuel" />
   <img src="https://img.shields.io/badge/Status-Building%20Systems-f4a261?style=for-the-badge" alt="Status" />
 </p>
@@ -78,23 +76,26 @@ const jrald = {
 
 ## 🔥 Featured Projects
 
-> Replace `REPO_NAME_...` with your actual repository names so the cards load.
-
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME_IOT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME_IOT&theme=tokyonight&hide_border=true" alt="IoT Room Monitoring System" />
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME_STOCKSMART">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME_STOCKSMART&theme=tokyonight&hide_border=true" alt="StockSmart Inventory System" />
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME_STUDENTS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME_STUDENTS&theme=tokyonight&hide_border=true" alt="Student Records Management System" />
+  <a href="https://github.com/jraldGITHUB/An-IoT-Based-Room-Temperature">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jraldGITHUB&repo=An-IoT-Based-Room-Temperature&theme=tokyonight&hide_border=true" alt="IoT Room Monitoring System" />
   </a>
 </p>
 
+<!--
+MORE PROJECT CARDS: replace REPO_NAME_... with your real repo names, move the blocks above the closing comment tag out, and they will show.
+
+  <a href="https://github.com/jraldGITHUB/REPO_NAME_STOCKSMART">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jraldGITHUB&repo=REPO_NAME_STOCKSMART&theme=tokyonight&hide_border=true" alt="StockSmart Inventory System" />
+  </a>
+  <a href="https://github.com/jraldGITHUB/REPO_NAME_STUDENTS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jraldGITHUB&repo=REPO_NAME_STUDENTS&theme=tokyonight&hide_border=true" alt="Student Records Management System" />
+  </a>
+-->
+
 | Project | What it does | Stack |
 |---|---|---|
-| 🌡️ **IoT Room Monitoring System** | Real-time temperature dashboard with alerts and logs | PHP · MySQL · Chart.js · JavaScript |
+| 🌡️ **[IoT Room Monitoring System](https://github.com/jraldGITHUB/An-IoT-Based-Room-Temperature)** | Real-time temperature dashboard with alerts and logs | PHP · MySQL · Chart.js · JavaScript |
 | 📦 **StockSmart Inventory System** | Restaurant stock tracking with a management dashboard | PHP · MySQL · Bootstrap |
 | 🎓 **Student Records Management System** | Enrollment and student database management | PHP · MySQL · HTML/CSS |
 
@@ -131,20 +132,20 @@ flowchart LR
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jraldGITHUB&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jraldGITHUB&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=jraldGITHUB&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jraldGITHUB&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jraldGITHUB&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
 </p>
 
 ---
@@ -174,7 +175,7 @@ flowchart LR
   <a href="mailto:jraldybaco@gmail.com">
     <img src="https://img.shields.io/badge/Email-jraldybaco@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/jraldGITHUB">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
